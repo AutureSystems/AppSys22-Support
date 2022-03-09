@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Found a bug in AppSys22 bot? Use this template!
 title: ''
 labels: bug
 assignees: ''

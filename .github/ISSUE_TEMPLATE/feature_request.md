@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: You have idea to make AppSys22 great again? Use this template!
 title: ''
 labels: enhancement
 assignees: ''
